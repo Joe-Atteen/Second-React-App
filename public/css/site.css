@@ -1,0 +1,84 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.top {
+    height: 12vh;
+    background-color: white !important;
+    border-bottom: 1px solid rgb(141, 141, 212);
+    padding: 0 5rem;
+}
+
+.logo {
+    border-radius: 10rem;
+}
+
+.link {
+    list-style: none;
+    position: relative;
+    top: 10%;
+    cursor: pointer;
+}
+
+.link li {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.car {
+    height: 90vh;
+}
+
+.tnail {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+h4 {
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.th-text {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 32.7rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.footer {
+    background-color: rgb(17, 38, 105);
+    height: 13.5rem;
+}
+
+.footer .empty {
+    background-color: rgb(134, 187, 211);
+    height: 1.6rem;
+}
+
+.foot {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.foot h3 {
+    color: rgb(184, 158, 14);
+    font-size: 1.2rem;
+}
+
+.foot h4 {
+    color: rgb(34, 133, 34);
+    font-size: 0.9rem;
+}
+
+.foot p {
+    color: white;
+    font-size: 0.8rem;
+}
